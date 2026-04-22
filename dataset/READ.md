@@ -1,8 +1,8 @@
-Project Proposal (Provisional)
+## Project Proposal (Provisional)
 
 This is the provisional project proposal for the smart traffic monitoring system using computer vision.
 
-Question / Need:
+## Question / Need:
 
 What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
@@ -10,22 +10,22 @@ We aim to develop a smart traffic monitoring system that can automatically count
 
 Throughout this project, a deep learning-based object detection model such as YOLOv8 will be applied to detect vehicles and classify helmet usage based on video input.
 
-The system will perform the following tasks:
+## The system will perform the following tasks:
 
-Count total number of vehicles
-Detect motorcycles and riders
-Identify helmet and non-helmet cases
-Who benefits from exploring this question or building this model/system?
-Traffic police and law enforcement authorities
-Smart city management systems
-Road safety organizations
-Data Description:
+1.Count total number of vehicles
+2.Detect motorcycles and riders
+3.Identify helmet and non-helmet cases
+4.Who benefits from exploring this question or building this model/system?
+5.Traffic police and law enforcement authorities
+6.Smart city management systems
+7.Road safety organizations
+8.Data Description:
 
 What dataset(s) do you plan to use, and how will you obtain the data?
 
 The dataset used for this project is sourced from Kaggle, specifically a helmet detection dataset.
 
-Dataset details:
+# Dataset details:
 
 Classes include:
 Bike
@@ -46,15 +46,16 @@ Tools:
 
 How do you intend to meet the tools requirement of the project?
 
-Ultralytics YOLO for training and detection
-Streamlit for building the user interface
-Hugging Face for model hosting and deployment
-SQLite database for storing detection history
-Numpy for numerical computations
-Are you planning in advance to need or use additional tools beyond those required?
-Pre-trained YOLO models for vehicle detection
-Optional GPU support for faster inference
-MVP Goal:
+1.Ultralytics YOLO for training and detection
+2.Streamlit for building the user interface
+3.Hugging Face for model hosting and deployment
+4.SQLite database for storing detection history
+5.Numpy for numerical computations
+6.Are you planning in advance to need or use additional tools beyond those required?
+7.Pre-trained YOLO models for vehicle detection
+8.Optional GPU support for faster inference
+
+## MVP Goal:
 
 The expected outcome of the project is a functional smart traffic monitoring system capable of:
 
