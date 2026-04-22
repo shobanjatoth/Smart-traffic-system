@@ -4,10 +4,37 @@ This project aims to develop a smart traffic monitoring system that focuses on v
 A deep learning-based object detection model such as YOLO26n is applied to detect different types of vehicles and identify helmet usage from video data captured through surveillance cameras. The system processes live or recorded video streams and generates outputs such as total vehicle count and helmet violation alerts.
 
 # Table of content
-## proposal
+# Your Project Title
+
+## 📌 Table of Contents
+
+- [Proposal](#proposal)
+- [MVP](#mvp)
+- [Data](#data)
+- [Analysis](#analysis)
+- [Presentation](#presentation)
+- [Web Application](#web-application)
+- [Author](#author)
+
+---
+
+## Proposal
+Write your proposal here...
+
 ## MVP
+Details about MVP...
+
 ## Data
+Explain dataset...
+
 ## Analysis
-## presentation
-## web application
+Your analysis...
+
+## Presentation
+PPT / demo details...
+
+## Web Application
+Explain your app (Flask/Streamlit)...
+
 ## Author
+Your name...
