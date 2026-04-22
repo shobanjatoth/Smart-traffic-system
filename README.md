@@ -19,10 +19,10 @@ A deep learning-based object detection model such as YOLO26n is applied to detec
 ---
 
 ## Proposal  click [https://github.com/shobanjatoth/Smart-traffic-system/blob/main/dataset/README.md]
-Write your proposal here...
+The project proposal can be found [here](https://github.com/shobanjatoth/Smart-traffic-system/blob/main/dataset/README.md).
 
 ## MVP
-Details about MVP...
+
 
 ## Data
 Explain dataset...
